@@ -1,3 +1,4 @@
+#Teacher function
 def teachers():
     teacher_names = []
     n = int(input("how many teachers do you wish to register? "))

@@ -1,3 +1,4 @@
+# student function
 def students():
     student_names = []
     n = int(input("how many students do you wish to register? "))
